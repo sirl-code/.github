@@ -27,3 +27,33 @@ human behavior, and real-world systems.
  - If data cannot be shared due to privacy or ethics constraints:
      - include a data/README.md explaining access procedures or restrictions.
  - Processed features or synthetic data may be shared only with PI approval.
+
+## Roles and Responsibilities
+ - Each repository will have one designated student maintainer (typically the first author).
+ - The maintainer is responsible for:
+     -   organizing the repository,
+     -   ensuring documentation is complete,
+     -   responding to reasonable issues or questions.
+ - The PI reviews repositories at release time, not every commit.
+
+## Branching and Contributions
+ - The main branch should remain stable.
+ - Experimental work should be conducted on separate branches.
+ - Pull requests are encouraged for major changes but are not mandatory for early-stage work.
+ - Commit messages should be descriptive but need not follow strict conventions.
+
+## Releases and Publication
+ - When a paper is accepted:
+     - a tagged release (e.g., v1.0-venue-year) should be created,
+     - The release should reference the paper and citation.
+ - Repositories may be linked from the lab website and the published paper.
+
+## Access and Membership Changes
+ - Membership is granted on a project-need basis.
+ - Students who leave the lab will be removed from the organization, but their contributions will remain credited through commit history.
+ - This is standard professional practice and not punitive.
+
+## Expectations and Professional Conduct
+ - The GitHub organization is a professional research space.
+ - Respectful communication and responsible use are expected.
+ - The purpose is collaboration and dissemination, not surveillance or performance evaluation.
